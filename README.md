@@ -7,6 +7,8 @@ visualizations. Note that *none* of this data is sent anywhere, other than cache
 a file path of your choosing.
 
 ## Install
+Currently, only UNIX-like systems (Mac OS X, Linux) are supported. Tested on Ubuntu 18.04 LTS.
+
 You must have a version of Python 3 running on your system, then after cloning this repository, run:
 ```
 pip install -r requirements.txt
@@ -35,6 +37,7 @@ python3 process_data.py DATA_PATH
 where that argument points to the messages/ subdirectory under the unzipped Messenger downloaded JSON zip archive.
 
 ## TODO
+- setuptools and Windows support
 - add visualization of frequency-sorted data
 - add more analyses (inc. reaction data)
 - perform basic data analysis of text used by the user and their friends
