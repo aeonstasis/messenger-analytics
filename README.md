@@ -9,6 +9,10 @@ a file path of your choosing.
 
 ## Development
 
+### Requirements
+
+You'll need [Node.js](https://nodejs.org/) and npm (bundled with Node.js). You'll also need Python 3.4+ installed.
+
 Tested on Ubuntu 18.04 LTS.
 
 When building from source, run the following in the root of the directory:
