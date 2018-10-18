@@ -1,5 +1,6 @@
-# messenger-analytics
+# messenger-analytics [![Build Status](https://travis-ci.org/aaron-zou/messenger-analytics.svg?branch=electron)](https://travis-ci.org/aaron-zou/messenger-analytics)
 Interactive Facebook Messenger analytics and visualization desktop application.
+
 
 ## Summary
 These scripts will perform local analysis of your Facebook Messenger conversation logs and display useful statistics and
